@@ -1,5 +1,5 @@
 # binary
-#Python Program for Binary Search Using Recursive
+# Python Program for Binary Search Using Recursive
 # Python 3 program for recursive binary search.
 # Modifications needed for the older Python 2 are found in comments.
 
@@ -43,7 +43,7 @@ else:
 
 
 
-#Python Program for Binary Search Using Iterative 
+# Python Program for Binary Search Using Iterative 
 # Iterative Binary Search Function
 # It returns index of x in given array arr if present,
 # else returns -1
